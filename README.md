@@ -11,6 +11,8 @@ As part of my continued research for automated testing, I've created a compilati
 * [Formally Specifying UIs](https://www.hillelwayne.com/post/formally-specifying-uis/)
 * [UML State Machine](https://en.wikipedia.org/wiki/UML_state_machine)
 * [Finite State Machines, a Google docs cliffnotes] - (https://docs.google.com/document/d/1KkKC2-ozJkvbWQIAXeJ1MUGqxjn19c-Mmc7RtxFTA3c/edit?usp=sharing)
+* [From UI Design Image to GUI Skeleton: A Neural Machine
+Translator to Bootstrap Mobile GUI Implementation](https://chunyang-chen.github.io/publication/ui2code.pdf)
 
 
 ## Youtube Videos
